@@ -1,0 +1,29 @@
+# FastAPI and server
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+# Face Recognition & Detection
+insightface==0.7.3
+onnxruntime==1.17.0
+mediapipe==0.10.9
+opencv-python-headless==4.9.0.80
+
+# Image processing
+numpy==1.26.4
+Pillow==10.2.0
+
+# Database
+supabase==2.3.4
+pgvector==0.2.5
+psycopg2-binary==2.9.9
+
+# Utilities
+python-dotenv==1.0.1
+httpx==0.26.0
+aiofiles==23.2.1
+
+# Liveness detection (Silent Face Anti-Spoofing)
+scikit-learn==1.4.0

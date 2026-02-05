@@ -1,0 +1,19 @@
+# Streamlit Frontend
+streamlit==1.31.1
+streamlit-webrtc==0.47.1
+
+# HTTP client
+httpx==0.26.0
+requests==2.31.0
+
+# Image processing
+Pillow==10.2.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+
+# Utilities
+python-dotenv==1.0.1
+
+# Data visualization
+plotly==5.18.0
+pandas==2.2.0
